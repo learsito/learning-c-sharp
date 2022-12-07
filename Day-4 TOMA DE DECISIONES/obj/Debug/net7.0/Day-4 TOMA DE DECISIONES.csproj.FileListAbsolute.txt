@@ -1,0 +1,15 @@
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\bin\Debug\net7.0\Day-4 TOMA DE DECISIONES.exe
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\bin\Debug\net7.0\Day-4 TOMA DE DECISIONES.deps.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\bin\Debug\net7.0\Day-4 TOMA DE DECISIONES.runtimeconfig.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\bin\Debug\net7.0\Day-4 TOMA DE DECISIONES.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\bin\Debug\net7.0\Day-4 TOMA DE DECISIONES.pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\obj\Debug\net7.0\Day-4 TOMA DE DECISIONES.csproj.AssemblyReference.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\obj\Debug\net7.0\Day-4 TOMA DE DECISIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\obj\Debug\net7.0\Day-4 TOMA DE DECISIONES.AssemblyInfoInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\obj\Debug\net7.0\Day-4 TOMA DE DECISIONES.AssemblyInfo.cs
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\obj\Debug\net7.0\Day-4 TOMA DE DECISIONES.csproj.CoreCompileInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\obj\Debug\net7.0\Day-4 TOMA DE DECISIONES.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\obj\Debug\net7.0\refint\Day-4 TOMA DE DECISIONES.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\obj\Debug\net7.0\Day-4 TOMA DE DECISIONES.pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\obj\Debug\net7.0\Day-4 TOMA DE DECISIONES.genruntimeconfig.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-4 TOMA DE DECISIONES\obj\Debug\net7.0\ref\Day-4 TOMA DE DECISIONES.dll

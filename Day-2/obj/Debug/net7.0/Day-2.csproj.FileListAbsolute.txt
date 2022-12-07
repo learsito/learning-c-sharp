@@ -1,0 +1,15 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\bin\Debug\net7.0\Day-2.exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\bin\Debug\net7.0\Day-2.deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\bin\Debug\net7.0\Day-2.runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\bin\Debug\net7.0\Day-2.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\bin\Debug\net7.0\Day-2.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\obj\Debug\net7.0\Day-2.csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\obj\Debug\net7.0\Day-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\obj\Debug\net7.0\Day-2.AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\obj\Debug\net7.0\Day-2.AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\obj\Debug\net7.0\Day-2.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\obj\Debug\net7.0\Day-2.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\obj\Debug\net7.0\refint\Day-2.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\obj\Debug\net7.0\Day-2.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\obj\Debug\net7.0\Day-2.genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-2\obj\Debug\net7.0\ref\Day-2.dll
