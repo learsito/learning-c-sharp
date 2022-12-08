@@ -1,0 +1,15 @@
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\obj\Debug\net7.0\Day-5 LOOPS.csproj.AssemblyReference.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\obj\Debug\net7.0\Day-5 LOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\obj\Debug\net7.0\Day-5 LOOPS.AssemblyInfoInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\obj\Debug\net7.0\Day-5 LOOPS.AssemblyInfo.cs
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\obj\Debug\net7.0\Day-5 LOOPS.csproj.CoreCompileInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\bin\Debug\net7.0\Day-5 LOOPS.exe
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\bin\Debug\net7.0\Day-5 LOOPS.deps.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\bin\Debug\net7.0\Day-5 LOOPS.runtimeconfig.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\bin\Debug\net7.0\Day-5 LOOPS.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\bin\Debug\net7.0\Day-5 LOOPS.pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\obj\Debug\net7.0\Day-5 LOOPS.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\obj\Debug\net7.0\refint\Day-5 LOOPS.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\obj\Debug\net7.0\Day-5 LOOPS.pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\obj\Debug\net7.0\Day-5 LOOPS.genruntimeconfig.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-5 LOOPS\obj\Debug\net7.0\ref\Day-5 LOOPS.dll

@@ -16,7 +16,7 @@
             WritingLine(statement);
         }
         WritingLine("Presiona Enter para continuar...");
-        Console.Read();
+        Console.ReadKey();
     }
 
     static void WritingLine(string statement){
