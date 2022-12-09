@@ -1,0 +1,15 @@
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\bin\Debug\net7.0\Day-6 MIEMBROS.exe
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\bin\Debug\net7.0\Day-6 MIEMBROS.deps.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\bin\Debug\net7.0\Day-6 MIEMBROS.runtimeconfig.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\bin\Debug\net7.0\Day-6 MIEMBROS.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\bin\Debug\net7.0\Day-6 MIEMBROS.pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\obj\Debug\net7.0\Day-6 MIEMBROS.csproj.AssemblyReference.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\obj\Debug\net7.0\Day-6 MIEMBROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\obj\Debug\net7.0\Day-6 MIEMBROS.AssemblyInfoInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\obj\Debug\net7.0\Day-6 MIEMBROS.AssemblyInfo.cs
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\obj\Debug\net7.0\Day-6 MIEMBROS.csproj.CoreCompileInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\obj\Debug\net7.0\Day-6 MIEMBROS.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\obj\Debug\net7.0\refint\Day-6 MIEMBROS.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\obj\Debug\net7.0\Day-6 MIEMBROS.pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\obj\Debug\net7.0\Day-6 MIEMBROS.genruntimeconfig.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 MIEMBROS\obj\Debug\net7.0\ref\Day-6 MIEMBROS.dll

@@ -1,0 +1,15 @@
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\obj\Debug\net7.0\Day-6 PROPIEDADES.csproj.AssemblyReference.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\obj\Debug\net7.0\Day-6 PROPIEDADES.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\obj\Debug\net7.0\Day-6 PROPIEDADES.AssemblyInfoInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\obj\Debug\net7.0\Day-6 PROPIEDADES.AssemblyInfo.cs
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\obj\Debug\net7.0\Day-6 PROPIEDADES.csproj.CoreCompileInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\bin\Debug\net7.0\Day-6 PROPIEDADES.exe
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\bin\Debug\net7.0\Day-6 PROPIEDADES.deps.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\bin\Debug\net7.0\Day-6 PROPIEDADES.runtimeconfig.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\bin\Debug\net7.0\Day-6 PROPIEDADES.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\bin\Debug\net7.0\Day-6 PROPIEDADES.pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\obj\Debug\net7.0\Day-6 PROPIEDADES.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\obj\Debug\net7.0\refint\Day-6 PROPIEDADES.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\obj\Debug\net7.0\Day-6 PROPIEDADES.pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\obj\Debug\net7.0\Day-6 PROPIEDADES.genruntimeconfig.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 PROPIEDADES\obj\Debug\net7.0\ref\Day-6 PROPIEDADES.dll

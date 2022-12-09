@@ -1,0 +1,15 @@
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\obj\Debug\net7.0\Day-6 OBJETOS.csproj.AssemblyReference.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\obj\Debug\net7.0\Day-6 OBJETOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\obj\Debug\net7.0\Day-6 OBJETOS.AssemblyInfoInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\obj\Debug\net7.0\Day-6 OBJETOS.AssemblyInfo.cs
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\obj\Debug\net7.0\Day-6 OBJETOS.csproj.CoreCompileInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\bin\Debug\net7.0\Day-6 OBJETOS.exe
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\bin\Debug\net7.0\Day-6 OBJETOS.deps.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\bin\Debug\net7.0\Day-6 OBJETOS.runtimeconfig.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\bin\Debug\net7.0\Day-6 OBJETOS.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\bin\Debug\net7.0\Day-6 OBJETOS.pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\obj\Debug\net7.0\Day-6 OBJETOS.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\obj\Debug\net7.0\refint\Day-6 OBJETOS.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\obj\Debug\net7.0\Day-6 OBJETOS.pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\obj\Debug\net7.0\Day-6 OBJETOS.genruntimeconfig.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-6 OBJETOS\obj\Debug\net7.0\ref\Day-6 OBJETOS.dll
