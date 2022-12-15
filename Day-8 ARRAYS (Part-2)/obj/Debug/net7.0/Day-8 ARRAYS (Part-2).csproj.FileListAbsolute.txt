@@ -1,0 +1,15 @@
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\bin\Debug\net7.0\Day-8 ARRAYS (Part-2).exe
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\bin\Debug\net7.0\Day-8 ARRAYS (Part-2).deps.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\bin\Debug\net7.0\Day-8 ARRAYS (Part-2).runtimeconfig.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\bin\Debug\net7.0\Day-8 ARRAYS (Part-2).dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\bin\Debug\net7.0\Day-8 ARRAYS (Part-2).pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\obj\Debug\net7.0\Day-8 ARRAYS (Part-2).csproj.AssemblyReference.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\obj\Debug\net7.0\Day-8 ARRAYS (Part-2).GeneratedMSBuildEditorConfig.editorconfig
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\obj\Debug\net7.0\Day-8 ARRAYS (Part-2).AssemblyInfoInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\obj\Debug\net7.0\Day-8 ARRAYS (Part-2).AssemblyInfo.cs
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\obj\Debug\net7.0\Day-8 ARRAYS (Part-2).csproj.CoreCompileInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\obj\Debug\net7.0\Day-8 ARRAYS (Part-2).dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\obj\Debug\net7.0\refint\Day-8 ARRAYS (Part-2).dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\obj\Debug\net7.0\Day-8 ARRAYS (Part-2).pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\obj\Debug\net7.0\Day-8 ARRAYS (Part-2).genruntimeconfig.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-8 ARRAYS (Part-2)\obj\Debug\net7.0\ref\Day-8 ARRAYS (Part-2).dll

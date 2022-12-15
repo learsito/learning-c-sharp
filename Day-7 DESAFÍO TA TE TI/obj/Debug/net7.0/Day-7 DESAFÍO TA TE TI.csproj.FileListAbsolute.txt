@@ -1,0 +1,15 @@
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\obj\Debug\net7.0\Day-7 DESAFÍO TA TE TI.csproj.AssemblyReference.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\obj\Debug\net7.0\Day-7 DESAFÍO TA TE TI.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\obj\Debug\net7.0\Day-7 DESAFÍO TA TE TI.AssemblyInfoInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\obj\Debug\net7.0\Day-7 DESAFÍO TA TE TI.AssemblyInfo.cs
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\obj\Debug\net7.0\Day-7 DESAFÍO TA TE TI.csproj.CoreCompileInputs.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\bin\Debug\net7.0\Day-7 DESAFÍO TA TE TI.exe
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\bin\Debug\net7.0\Day-7 DESAFÍO TA TE TI.deps.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\bin\Debug\net7.0\Day-7 DESAFÍO TA TE TI.runtimeconfig.json
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\bin\Debug\net7.0\Day-7 DESAFÍO TA TE TI.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\bin\Debug\net7.0\Day-7 DESAFÍO TA TE TI.pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\obj\Debug\net7.0\Day-7 DESAFÍO TA TE TI.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\obj\Debug\net7.0\refint\Day-7 DESAFÍO TA TE TI.dll
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\obj\Debug\net7.0\Day-7 DESAFÍO TA TE TI.pdb
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\obj\Debug\net7.0\Day-7 DESAFÍO TA TE TI.genruntimeconfig.cache
+C:\users\Diego Villaseñor\Documents\C# curse\Day-7 DESAFÍO TA TE TI\obj\Debug\net7.0\ref\Day-7 DESAFÍO TA TE TI.dll
