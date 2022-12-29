@@ -2,6 +2,7 @@
 bool gameOn = true;
 
 mainTable.Welcome();
+mainTable.AskForPlayersNames();
 
 do{
     while(mainTable.WinnerVerify()==false && mainTable.EveryBoxFilled()==false){
@@ -21,13 +22,13 @@ do{
 
     if(mainTable.WinnerVerify() && mainTable.PlayerOneWins()) {
             Console.WriteLine("¡Felicidades!");
-            Console.WriteLine("Ha ganado el jugador 1.");
+            Console.WriteLine("Ha ganado {0}.",mainTable.PlayerOneName());
             Console.WriteLine("Presione cualquier tecla para reiniciar el juego...");
             mainTable.Reset();
             Console.ReadKey();
         } else if(mainTable.WinnerVerify() && mainTable.PlayerTwoWins()){
             Console.WriteLine("¡Felicidades!");
-            Console.WriteLine("Ha ganado el jugador 2.");
+            Console.WriteLine("Ha ganado {0}.",mainTable.PlayerTwoName());
             Console.WriteLine("Presione cualquier tecla para reiniciar el juego...");
             mainTable.Reset();
             Console.ReadKey();
@@ -41,3 +42,5 @@ do{
         Console.ReadKey();
     }
 }while(gameOn);
+
+

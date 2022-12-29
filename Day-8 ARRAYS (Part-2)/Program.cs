@@ -79,6 +79,8 @@ static int [] ApplyCredit(int credit, int [] cuentas){
 
 int [] accounts = new int [] {800,300,1800,2800};
 
+int [] account0 = new int [] { 35, 47, 500, 89 };
+
 ApplyCredit(200,accounts);
 
 foreach(int saldo2 in accounts){
@@ -211,6 +213,11 @@ Para colecciones que solo contienen un tipo de datos, usamos el namespace:
     foreach(object o in arrl){
         System.Console.WriteLine(o);
     }
+ApplyCredit(65,account0);
+
+foreach( int acc in account0 ){
+    System.Console.WriteLine(acc);
+}
 
     class numero {
         public int n {get;set;}
