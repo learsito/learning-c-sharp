@@ -1,0 +1,15 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\bin\Debug\net7.0\Day-9 Depuración.exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\bin\Debug\net7.0\Day-9 Depuración.deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\bin\Debug\net7.0\Day-9 Depuración.runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\bin\Debug\net7.0\Day-9 Depuración.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\bin\Debug\net7.0\Day-9 Depuración.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\obj\Debug\net7.0\Day-9 Depuración.csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\obj\Debug\net7.0\Day-9 Depuración.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\obj\Debug\net7.0\Day-9 Depuración.AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\obj\Debug\net7.0\Day-9 Depuración.AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\obj\Debug\net7.0\Day-9 Depuración.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\obj\Debug\net7.0\Day-9 Depuración.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\obj\Debug\net7.0\refint\Day-9 Depuración.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\obj\Debug\net7.0\Day-9 Depuración.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\obj\Debug\net7.0\Day-9 Depuración.genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-9 Depuración\obj\Debug\net7.0\ref\Day-9 Depuración.dll

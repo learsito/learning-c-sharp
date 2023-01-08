@@ -1,0 +1,15 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\bin\Debug\net7.0\Day-12 Temas avanzados en C#.exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\bin\Debug\net7.0\Day-12 Temas avanzados en C#.deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\bin\Debug\net7.0\Day-12 Temas avanzados en C#.runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\bin\Debug\net7.0\Day-12 Temas avanzados en C#.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\bin\Debug\net7.0\Day-12 Temas avanzados en C#.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\obj\Debug\net7.0\Day-12 Temas avanzados en C#.csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\obj\Debug\net7.0\Day-12 Temas avanzados en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\obj\Debug\net7.0\Day-12 Temas avanzados en C#.AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\obj\Debug\net7.0\Day-12 Temas avanzados en C#.AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\obj\Debug\net7.0\Day-12 Temas avanzados en C#.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\obj\Debug\net7.0\Day-12 Temas avanzados en C#.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\obj\Debug\net7.0\refint\Day-12 Temas avanzados en C#.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\obj\Debug\net7.0\Day-12 Temas avanzados en C#.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\obj\Debug\net7.0\Day-12 Temas avanzados en C#.genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-12 Temas avanzados en C#\obj\Debug\net7.0\ref\Day-12 Temas avanzados en C#.dll

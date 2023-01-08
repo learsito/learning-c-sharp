@@ -1,0 +1,3 @@
+Primero: 253
+Segundo: 155
+Tercero: 147

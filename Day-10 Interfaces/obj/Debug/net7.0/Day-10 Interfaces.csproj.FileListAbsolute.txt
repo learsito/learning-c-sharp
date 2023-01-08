@@ -1,0 +1,15 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\obj\Debug\net7.0\Day-10 Interfaces.csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\obj\Debug\net7.0\Day-10 Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\obj\Debug\net7.0\Day-10 Interfaces.AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\obj\Debug\net7.0\Day-10 Interfaces.AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\obj\Debug\net7.0\Day-10 Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\bin\Debug\net7.0\Day-10 Interfaces.exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\bin\Debug\net7.0\Day-10 Interfaces.deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\bin\Debug\net7.0\Day-10 Interfaces.runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\bin\Debug\net7.0\Day-10 Interfaces.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\bin\Debug\net7.0\Day-10 Interfaces.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\obj\Debug\net7.0\Day-10 Interfaces.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\obj\Debug\net7.0\refint\Day-10 Interfaces.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\obj\Debug\net7.0\Day-10 Interfaces.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\obj\Debug\net7.0\Day-10 Interfaces.genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-10 Interfaces\obj\Debug\net7.0\ref\Day-10 Interfaces.dll
