@@ -1,0 +1,15 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\obj\Debug\net7.0\Day-13 Eventos y delegados.csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\obj\Debug\net7.0\Day-13 Eventos y delegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\obj\Debug\net7.0\Day-13 Eventos y delegados.AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\obj\Debug\net7.0\Day-13 Eventos y delegados.AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\obj\Debug\net7.0\Day-13 Eventos y delegados.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\bin\Debug\net7.0\Day-13 Eventos y delegados.exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\bin\Debug\net7.0\Day-13 Eventos y delegados.deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\bin\Debug\net7.0\Day-13 Eventos y delegados.runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\bin\Debug\net7.0\Day-13 Eventos y delegados.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\bin\Debug\net7.0\Day-13 Eventos y delegados.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\obj\Debug\net7.0\Day-13 Eventos y delegados.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\obj\Debug\net7.0\refint\Day-13 Eventos y delegados.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\obj\Debug\net7.0\Day-13 Eventos y delegados.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\obj\Debug\net7.0\Day-13 Eventos y delegados.genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Eventos y delegados\obj\Debug\net7.0\ref\Day-13 Eventos y delegados.dll

@@ -1,0 +1,15 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\bin\Debug\net7.0\Day-13 Metodos Anonimos.exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\bin\Debug\net7.0\Day-13 Metodos Anonimos.deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\bin\Debug\net7.0\Day-13 Metodos Anonimos.runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\bin\Debug\net7.0\Day-13 Metodos Anonimos.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\bin\Debug\net7.0\Day-13 Metodos Anonimos.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\obj\Debug\net7.0\Day-13 Metodos Anonimos.csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\obj\Debug\net7.0\Day-13 Metodos Anonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\obj\Debug\net7.0\Day-13 Metodos Anonimos.AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\obj\Debug\net7.0\Day-13 Metodos Anonimos.AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\obj\Debug\net7.0\Day-13 Metodos Anonimos.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\obj\Debug\net7.0\Day-13 Metodos Anonimos.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\obj\Debug\net7.0\refint\Day-13 Metodos Anonimos.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\obj\Debug\net7.0\Day-13 Metodos Anonimos.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\obj\Debug\net7.0\Day-13 Metodos Anonimos.genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Metodos Anonimos\obj\Debug\net7.0\ref\Day-13 Metodos Anonimos.dll

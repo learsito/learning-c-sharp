@@ -1,0 +1,15 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\obj\Debug\net7.0\Day-13 Expresiones Lambda.csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\obj\Debug\net7.0\Day-13 Expresiones Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\obj\Debug\net7.0\Day-13 Expresiones Lambda.AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\obj\Debug\net7.0\Day-13 Expresiones Lambda.AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\obj\Debug\net7.0\Day-13 Expresiones Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\bin\Debug\net7.0\Day-13 Expresiones Lambda.exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\bin\Debug\net7.0\Day-13 Expresiones Lambda.deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\bin\Debug\net7.0\Day-13 Expresiones Lambda.runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\bin\Debug\net7.0\Day-13 Expresiones Lambda.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\bin\Debug\net7.0\Day-13 Expresiones Lambda.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\obj\Debug\net7.0\Day-13 Expresiones Lambda.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\obj\Debug\net7.0\refint\Day-13 Expresiones Lambda.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\obj\Debug\net7.0\Day-13 Expresiones Lambda.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\obj\Debug\net7.0\Day-13 Expresiones Lambda.genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13 Expresiones Lambda\obj\Debug\net7.0\ref\Day-13 Expresiones Lambda.dll

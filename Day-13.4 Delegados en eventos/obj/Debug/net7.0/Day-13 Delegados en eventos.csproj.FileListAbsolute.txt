@@ -1,0 +1,15 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\bin\Debug\net7.0\Day-13 Delegados en eventos.exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\bin\Debug\net7.0\Day-13 Delegados en eventos.deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\bin\Debug\net7.0\Day-13 Delegados en eventos.runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\bin\Debug\net7.0\Day-13 Delegados en eventos.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\bin\Debug\net7.0\Day-13 Delegados en eventos.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\obj\Debug\net7.0\Day-13 Delegados en eventos.csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\obj\Debug\net7.0\Day-13 Delegados en eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\obj\Debug\net7.0\Day-13 Delegados en eventos.AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\obj\Debug\net7.0\Day-13 Delegados en eventos.AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\obj\Debug\net7.0\Day-13 Delegados en eventos.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\obj\Debug\net7.0\Day-13 Delegados en eventos.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\obj\Debug\net7.0\refint\Day-13 Delegados en eventos.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\obj\Debug\net7.0\Day-13 Delegados en eventos.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\obj\Debug\net7.0\Day-13 Delegados en eventos.genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-13.4 Delegados en eventos\obj\Debug\net7.0\ref\Day-13 Delegados en eventos.dll
