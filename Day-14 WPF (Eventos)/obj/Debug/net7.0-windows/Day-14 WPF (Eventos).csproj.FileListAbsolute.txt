@@ -1,0 +1,21 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\Day-14 WPF (Eventos).csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\Day-14 WPF (Eventos)_MarkupCompile.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\bin\Debug\net7.0-windows\Day-14 WPF (Eventos).exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\bin\Debug\net7.0-windows\Day-14 WPF (Eventos).deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\bin\Debug\net7.0-windows\Day-14 WPF (Eventos).runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\bin\Debug\net7.0-windows\Day-14 WPF (Eventos).dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\bin\Debug\net7.0-windows\Day-14 WPF (Eventos).pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\Day-14 WPF (Eventos)_MarkupCompile.lref
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\Day-14 WPF (Eventos).g.resources
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\Day-14 WPF (Eventos).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\Day-14 WPF (Eventos).AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\Day-14 WPF (Eventos).AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\Day-14 WPF (Eventos).csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\Day-14 WPF (Eventos).dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\refint\Day-14 WPF (Eventos).dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\Day-14 WPF (Eventos).pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\Day-14 WPF (Eventos).genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Eventos)\obj\Debug\net7.0-windows\ref\Day-14 WPF (Eventos).dll

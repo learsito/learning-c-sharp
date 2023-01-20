@@ -1,0 +1,21 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\Day-14 WPF (Grid).csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\Day-14 WPF (Grid)_MarkupCompile.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\bin\Debug\net7.0-windows\Day-14 WPF (Grid).exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\bin\Debug\net7.0-windows\Day-14 WPF (Grid).deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\bin\Debug\net7.0-windows\Day-14 WPF (Grid).runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\bin\Debug\net7.0-windows\Day-14 WPF (Grid).dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\bin\Debug\net7.0-windows\Day-14 WPF (Grid).pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\Day-14 WPF (Grid)_MarkupCompile.lref
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\Day-14 WPF (Grid).g.resources
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\Day-14 WPF (Grid).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\Day-14 WPF (Grid).AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\Day-14 WPF (Grid).AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\Day-14 WPF (Grid).csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\Day-14 WPF (Grid).dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\refint\Day-14 WPF (Grid).dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\Day-14 WPF (Grid).pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\Day-14 WPF (Grid).genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14 WPF (Grid)\obj\Debug\net7.0-windows\ref\Day-14 WPF (Grid).dll

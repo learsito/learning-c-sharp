@@ -1,0 +1,19 @@
+﻿<Window x:Class="Day_14_WPF__Eventos_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day_14_WPF__Eventos_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+        <Button Height="200" Width="400" Margin="50" Click="Button_Click"  >
+            <Button FontSize="50" Content="Hola" Click="Button_Click_2" PreviewMouseUp="Button_Tunneling" /> <!-- Con el PreviewMouseUp Al dar click se ejecutaría solamente el evento del boton interno ya que es un evento de tunneling. -->
+        </Button>
+    <!-- <Button Content="Click Aquí" Width="200" Height="150" PreviewMouseLeftButtonDown="Button_MyNamedButton" PreviewMouseRightButtonUp="Button_PreviewMouseRightButtonUp" /> --> <!-- 'Click="Button_Click" ' Aquí hemos creado un evento con el
+        elemento Click. Este requiero un código en cs para funcionar; para ello véase el archivo .cs
+        Este es sólo un tipo de evento. existen muchos tipos de eventos que pueden suceder cuando tú haces click en este botón,
+        o cuando sueltas el botón, cuando arrastras, cuando mueves, cuando flotas (hover). O sea que, hemos establecido un evento en particular para un
+        tipo de acción que en este caso es un click. El nombre dentro de las comillas es importante. -->
+
+</Window>
