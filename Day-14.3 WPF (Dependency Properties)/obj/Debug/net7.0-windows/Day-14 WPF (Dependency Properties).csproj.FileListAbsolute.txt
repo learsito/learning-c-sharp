@@ -1,0 +1,21 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\bin\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\bin\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\bin\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\bin\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\bin\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\Day-14 WPF (Dependency Properties)_MarkupCompile.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\Day-14 WPF (Dependency Properties)_MarkupCompile.lref
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).g.resources
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\refint\Day-14 WPF (Dependency Properties).dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\Day-14 WPF (Dependency Properties).genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.3 WPF (Dependency Properties)\obj\Debug\net7.0-windows\ref\Day-14 WPF (Dependency Properties).dll
