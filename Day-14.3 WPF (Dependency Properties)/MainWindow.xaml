@@ -13,7 +13,6 @@
                     <Style.Triggers>
                         <Trigger Property="IsMouseOver" Value="true" >
                             <Setter Property="FontSize" Value="30" />
-                            <Setter Property="Background" Value="DimGray" />
                         </Trigger>
                     </Style.Triggers>
                 </Style>
@@ -21,3 +20,5 @@
         </Button>
     </Grid>
 </Window>
+
+<!-- 10:30 -->

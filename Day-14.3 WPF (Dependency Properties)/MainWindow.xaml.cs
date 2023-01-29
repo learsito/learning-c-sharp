@@ -26,6 +26,14 @@ namespace Day_14_WPF__Dependency_Properties_
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        public int ColorDeOjos{
+            get {return (int)GetValue(ColorDeOjosProperty);}
+            set {SetValue(ColorDeOjosProperty,value);  }
+        }
+
+        public static readonly DependencyProperty ColorDeOjosProperty = DependencyProperty.Register("ColorDeOjos",typeof(int),typeof(MainWindow),new PropertyMetadata(0)); //Creando una Dependency Property
+
         public MainWindow()
         {
             InitializeComponent();

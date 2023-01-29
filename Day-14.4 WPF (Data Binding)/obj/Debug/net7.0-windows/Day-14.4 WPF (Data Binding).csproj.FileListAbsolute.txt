@@ -1,0 +1,21 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\bin\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\bin\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\bin\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\bin\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\bin\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\Day-14.4 WPF (Data Binding)_MarkupCompile.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\Day-14.4 WPF (Data Binding)_MarkupCompile.lref
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).g.resources
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\refint\Day-14.4 WPF (Data Binding).dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\Day-14.4 WPF (Data Binding).genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-14.4 WPF (Data Binding)\obj\Debug\net7.0-windows\ref\Day-14.4 WPF (Data Binding).dll

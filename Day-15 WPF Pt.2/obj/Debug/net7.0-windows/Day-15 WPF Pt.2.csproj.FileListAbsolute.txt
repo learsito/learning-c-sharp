@@ -1,0 +1,21 @@
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\Day-15 WPF Pt.2.csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\Day-15 WPF Pt.2_MarkupCompile.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\Day-15 WPF Pt.2_MarkupCompile.lref
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\bin\Debug\net7.0-windows\Day-15 WPF Pt.2.exe
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\bin\Debug\net7.0-windows\Day-15 WPF Pt.2.deps.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\bin\Debug\net7.0-windows\Day-15 WPF Pt.2.runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\bin\Debug\net7.0-windows\Day-15 WPF Pt.2.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\bin\Debug\net7.0-windows\Day-15 WPF Pt.2.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\Day-15 WPF Pt.2.g.resources
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\Day-15 WPF Pt.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\Day-15 WPF Pt.2.AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\Day-15 WPF Pt.2.AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\Day-15 WPF Pt.2.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\Day-15 WPF Pt.2.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\refint\Day-15 WPF Pt.2.dll
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\Day-15 WPF Pt.2.pdb
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\Day-15 WPF Pt.2.genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\C# curse\Day-15 WPF Pt.2\obj\Debug\net7.0-windows\ref\Day-15 WPF Pt.2.dll
