@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/home/zandra/Documentos/learning-c-sharp/Day-7 DESAFÍO TA TE TI/Day-7 DESAFÍO TA TE TI.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "/home/zandra/Documentos/learning-c-sharp/Day-7 DESAFÍO TA TE TI/Day-7 DESAFÍO TA TE TI.csproj",
         "packagesPath": "/home/zandra/.nuget/packages/",
         "outputPath": "/home/zandra/Documentos/learning-c-sharp/Day-7 DESAFÍO TA TE TI/obj/",
+=======
+    "C:\\Users\\Diego Villaseñor\\Documents\\C# curse\\Day-7 DESAFÍO TA TE TI\\Day-7 DESAFÍO TA TE TI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Diego Villaseñor\\Documents\\C# curse\\Day-7 DESAFÍO TA TE TI\\Day-7 DESAFÍO TA TE TI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diego Villaseñor\\Documents\\C# curse\\Day-7 DESAFÍO TA TE TI\\Day-7 DESAFÍO TA TE TI.csproj",
+        "projectName": "Day-7 DESAFÍO TA TE TI",
+        "projectPath": "C:\\Users\\Diego Villaseñor\\Documents\\C# curse\\Day-7 DESAFÍO TA TE TI\\Day-7 DESAFÍO TA TE TI.csproj",
+        "packagesPath": "C:\\Users\\Diego Villaseñor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diego Villaseñor\\Documents\\C# curse\\Day-7 DESAFÍO TA TE TI\\obj\\",
+>>>>>>> 0664b5c58839122187acf02e06a79911d3596466
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/zandra/.nuget/NuGet/NuGet.Config"
@@ -20,6 +34,10 @@
           "net7.0"
         ],
         "sources": {
+<<<<<<< HEAD
+=======
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+>>>>>>> 0664b5c58839122187acf02e06a79911d3596466
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +71,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+>>>>>>> 0664b5c58839122187acf02e06a79911d3596466
         }
       }
     }

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "AcCxR5Y0gv5b7FHRnsnpFzjt36jh+/Xf3J/NoeG7WrMoves09CFo5ClCwT83t/Fhn5cBYNf3UhgYNebafExc7w==",
   "success": true,
   "projectFilePath": "/home/zandra/Documentos/learning-c-sharp/Day-7 DESAFÍO TA TE TI/Day-7 DESAFÍO TA TE TI.csproj",
+=======
+  "dgSpecHash": "76PFqK/nAnjjfaZt2oKVXqYyfNMGtl7xZ+VCfpdR8y4dMcTi6x/UT4CjRsbUZT3oWtj/bCsUdFKFu98gKkM6qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego Villaseñor\\Documents\\C# curse\\Day-7 DESAFÍO TA TE TI\\Day-7 DESAFÍO TA TE TI.csproj",
+>>>>>>> 0664b5c58839122187acf02e06a79911d3596466
   "expectedPackageFiles": [],
   "logs": []
 }
