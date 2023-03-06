@@ -1,5 +1,4 @@
 ﻿Table mainTable = new Table();
-bool gameOn = true;
 
 mainTable.Welcome();
 mainTable.AskForPlayersNames();
@@ -21,26 +20,30 @@ do{
     }
 
     if(mainTable.WinnerVerify() && mainTable.PlayerOneWins()) {
+            mainTable.ShowTable();
             Console.WriteLine("¡Felicidades!");
             Console.WriteLine("Ha ganado {0}.",mainTable.PlayerOneName());
             Console.WriteLine("Presione cualquier tecla para reiniciar el juego...");
             mainTable.Reset();
             Console.ReadKey();
         } else if(mainTable.WinnerVerify() && mainTable.PlayerTwoWins()){
+            mainTable.ShowTable();
             Console.WriteLine("¡Felicidades!");
             Console.WriteLine("Ha ganado {0}.",mainTable.PlayerTwoName());
             Console.WriteLine("Presione cualquier tecla para reiniciar el juego...");
             mainTable.Reset();
             Console.ReadKey();
         }else if (mainTable.EveryBoxFilled()){
-        Console.WriteLine("Gato encerrado. Presione cualquier tecla para reiniciar el juego...");
-        mainTable.Reset();
-        Console.ReadKey();
+            mainTable.ShowTable();
+            Console.WriteLine("Gato encerrado. Presione cualquier tecla para reiniciar el juego...");
+            mainTable.Reset();
+            Console.ReadKey();
     }else{
-        System.Console.WriteLine("WinnerVerify es {0}, PlayerOneWins es {1} y PlayerTwoWins es {2} ",mainTable.WinnerVerify(),mainTable.PlayerOneWins(),mainTable.PlayerTwoWins());
-        mainTable.Reset();
-        Console.ReadKey();
+            mainTable.ShowTable();
+            System.Console.WriteLine("WinnerVerify es {0}, PlayerOneWins es {1} y PlayerTwoWins es {2} ",mainTable.WinnerVerify(),mainTable.PlayerOneWins(),mainTable.PlayerTwoWins());
+            mainTable.Reset();
+            Console.ReadKey();
     }
-}while(gameOn);
+}while(true);
 
 

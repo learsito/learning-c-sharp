@@ -24,6 +24,7 @@ public class Table {
     }
 
     public void AskForPlayersNames(){
+        Console.Clear();
         System.Console.WriteLine("Elije un nombre para el jugador 1: ");
         p1Name = Console.ReadLine();
         System.Console.WriteLine("Elije un nombre para el jugador 2: ");
